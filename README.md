@@ -14,10 +14,10 @@ You can directly download the repository on **GitHub** by clicking on **Clone or
 
 This Jupyter Notebook let users input the name of two characters and find out in which films they both have been in.
 
-### *1. Internal code cells* 
+#### *1. Internal code cells* 
 Users’ needs to run this cells that imports the libraries and define functions required to perform the Star Wars API requests and search.
 
-### *2. Users inputs and program output*
+#### *2. Users inputs and program output*
 * These cells interact with users. First the program ask the user name and then ask for the name of two characters, one by one:  
 
 `` Enter your first SW character name: ``  
