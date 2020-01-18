@@ -37,5 +37,5 @@ I hope you enjoy this Star Wars API search program!
 
 For more info about Star Wars API:  
 
-<a href='https://swapi.co/' > SWAPI link: https://swapi.co/ </a>
+<a href='https://swapi.co/' >  https://swapi.co/ </a>
 
