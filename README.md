@@ -5,7 +5,8 @@
 ### Star Wars API search program in Python language
 
 
-I have stored the Python Code in a repository which you can download onto your computer. 
+I have stored the Python Code in a repository which you can download onto your computer.  
+
 You can directly download the repository on **GitHub** by clicking on **Clone or Download** and then on **Download Zip**.
 
 <img src="Screenshot-GitHub.png">
@@ -34,5 +35,7 @@ Users’ needs to run this cells that imports the libraries and define functions
 
 I hope you enjoy this Star Wars API search program!
 
-For more info about Star Wars API:
-[![SWAPI](https://swapi.co/)](https://swapi.co/)
+For more info about Star Wars API:  
+
+<a href='https://swapi.co/' > link to swapi web https://swapi.co/ ,/a>
+
