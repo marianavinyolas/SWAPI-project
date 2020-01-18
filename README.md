@@ -28,7 +28,9 @@ If the name selected doesn’t match with any name in the characters list, this 
 ``That is not a Star Wars character... Try again please!!!``  
 
 Users only have to run this cell again and input any right name
-After input the names correctly, the program return the films names where both characters have been in.
-Finally, there is a cell that shows the user a list of all the 87 characters to keep trying the search.
+After input the names correctly, the program return the films names where both characters have been in.  
+
+Finally, there is a cell that shows the user a list of all the 87 characters to keep trying the search.  
+
 
 I hope you enjoy this Star Wars API search program!
