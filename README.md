@@ -1,14 +1,21 @@
 <img src="Screenshot SWAPI.png">
+
 # SWAPI-project
-Star Wars API with Python
+
+Star Wars API search program in Python language
+
 
 I have stored the Python Code in a repository which you can download onto your computer. 
 You can directly download the repository on **GitHub** by clicking on **Clone or Download** and then on **Download Zip**.
+
 <img src="Screenshot GitHub.png">
 
+
 This Jupyter Notebook let users search in wich films both have been in. It is made in two sections
+
 ### *1. Internal code cells* 
 Users’ needs to run this cells that imports the libraries and define functions required to perform the Star Wars API requests and search.
+
 ### *2. Users inputs and program output*
 These cells interact with users. First the program ask the user name and then ask for the name of two characters, one by one.
 `` 'Enter your first SW character name: '``
